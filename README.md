@@ -269,7 +269,7 @@
 <!--
 <div align="center">
   <a href="https://github.com/Ignor-GTO">
-    <img alt="Footer" src="pictures/footer.svg" width="100%">
+    <img alt="Footer" src="https://avatars.githubusercontent.com/u/183357415?v=4" width="100%">
   </a>
 </div>
 -->
