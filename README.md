@@ -2,30 +2,30 @@
 
   <!-- Animated Greeting -->
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FFC107&center=true&vCenter=true&width=550&lines=Welcome!+👋;I'm+Gennady+(Ignor-GTO);Software+Developer+and+Creator"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FFC107&center=true&vCenter=true&width=650&lines=Добро+пожаловать!+👋;Я+Геннадий+(Ignor-GTO);Разработчик+и+создатель+проектов"
   />
 
   <br><br>
 
   <!-- Profile Views -->
   <a href="https://github.com/Ignor-GTO">
-    <img src="https://komarev.com/ghpvc/?username=Ignor-GTO&label=Profile%20views&color=00695C&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Ignor-GTO&label=Просмотры%20профиля&color=00695C&style=for-the-badge">
   </a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 О себе
 
-- 🧑‍💻 Backend / Fullstack developer  
+- 🧑‍💻 Backend / Fullstack разработчик  
 - 🐍 Python | 🦀 Rust | 💎 Crystal  
-- 🧭 Люблю создавать инструменты, сервисы и полезные библиотеки  
-- 🔍 В Open Source с большим интересом к новым технологиям  
+- 🧭 Создаю инструменты, сервисы, библиотеки и open-source проекты  
+- ⚡ Люблю оптимизацию, чистый код и новые технологии  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Статистика GitHub
 
 <div align="center">
 
@@ -55,16 +55,16 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Стек технологий
 
-### 🧩 Languages
+### 🧩 Языки программирования
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,rust,crystal,html,css,js">
 </div>
 
 ---
 
-### 🏗️ Frameworks & Tools
+### 🏗️ Фреймворки и инструменты
 <div align="center">
   <img src="https://skillicons.dev/icons?i=django,actix,nodejs,svelte,vue,jquery">
   <br>
@@ -73,16 +73,16 @@
 
 ---
 
-### 🗄️ Databases
+### 🗄️ Базы данных
 <div align="center">
   <img src="https://img.shields.io/badge/MongoDB-4CAF50?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
 ---
 
-### 💻 Operating Systems
+### 💻 Операционные системы
 <div align="center">
   <img src="https://img.shields.io/badge/Linux%20Mint-4EA94B?style=for-the-badge&logo=linuxmint&logoColor=white">
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
@@ -91,7 +91,7 @@
 
 ---
 
-## 🔗 Contacts
+## 🔗 Контакты
 
 <div align="center">
 
@@ -112,6 +112,7 @@
   </a>
 
   <br>
+  
   <a href="https://pypi.org/project/django-editor-ymaps/">
     <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white">
   </a>
@@ -121,5 +122,5 @@
 ---
 
 <div align="center">
-  <sub>⭐ If you like my work — feel free to star the repositories</sub>
+  <sub>⭐ Если проекты понравятся — можно поставить звезду</sub>
 </div>
