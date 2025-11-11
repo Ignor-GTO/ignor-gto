@@ -247,17 +247,10 @@
 
 <br>
 
-<p align="center">
-  Visitors :<br>
-  <a href="https://github.com/Ignor-GTO">
-    <img alt="Profile Counter" src="https://profile-counter.glitch.me/Ignor-GTO-dev/count.svg">
-  </a>
-</p>
-
 <!--
 <div align="center">
   <a href="https://github.com/Ignor-GTO">
-    <img alt="Footer" src="https://avatars.githubusercontent.com/u/183357415?v=4" width="100%">
+    <img style="height:auto;" alt="View Ignor-GTO's full-sized avatar" src="https://avatars.githubusercontent.com/u/183357415?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
   </a>
 </div>
 -->
