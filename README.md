@@ -1,6 +1,6 @@
 <!--
 <div align="center">
-  <a href="https://github.com/kebasyaty">
+  <a href="https://github.com/Ignor-GTO">
     <img alt="Header" src="pictures/header.svg">
   </a>
 </div>
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h1>
-    <a href="https://github.com/kebasyaty">
+    <a href="https://github.com/Ignor-GTO">
       <!--
       <img alt="Welcome text"
         src="https://readme-typing-svg.herokuapp.com? 
@@ -21,20 +21,20 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/kebasyaty">
-    <img src="https://komarev.com/ghpvc/?username=kebasyaty&label=Profile%20views&color=388E3C&style=for-the-badge"
+  <a href="https://github.com/Ignor-GTO">
+    <img src="https://komarev.com/ghpvc/?username=Ignor-GTO&label=Profile%20views&color=388E3C&style=for-the-badge"
       alt="Profile Views">
   </a>
 </p>
 
 <div align="center">
-  <a href="https://github.com/kebasyaty">
+  <a href="https://github.com/Ignor-GTO">
     <img alt="Quotes" src="pictures/quotes.svg">
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/kebasyaty">
+  <a href="https://github.com/Ignor-GTO">
     <img alt="Quotes" src="pictures/girls.jpg">
   </a>
 </div>
@@ -42,17 +42,17 @@
 ## Activity:
 
 <div align="center">
-  <a href="https://github.com/kebasyaty?tab=repositorie">
-    <img alt="Activity Graph" src="https://github-profile-trophy.vercel.app/?username=kebasyaty&theme=onedark&no-frame=true&margin-w=15&row=1">
+  <a href="https://github.com/Ignor-GTO?tab=repositorie">
+    <img alt="Activity Graph" src="https://github-profile-trophy.vercel.app/?username=Ignor-GTO&theme=onedark&no-frame=true&margin-w=15&row=1">
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/kebasyaty?tab=repositories">
+  <a href="https://github.com/Ignor-GTO?tab=repositories">
     <img
-      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kebasyaty&theme=ayu_mirage"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ignor-GTO&theme=ayu_mirage"
       alt="Profile details.">
   </a>
 </div>
@@ -60,33 +60,33 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/kebasyaty?tab=repositories">
+  <a href="https://github.com/Ignor-GTO?tab=repositories">
     <img alt="Language stats"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebasyaty&langs_count=8&hide_border=true&theme=ayu-mirage">
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignor-GTO&langs_count=8&hide_border=true&theme=ayu-mirage">
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/kebasyaty?tab=repositories">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=kebasyaty&theme=ayu_mirage&hide_border=true&exclude_days=Sun">
+  <a href="https://github.com/Ignor-GTO?tab=repositories">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ignor-GTO&theme=ayu_mirage&hide_border=true&exclude_days=Sun">
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/kebasyaty?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kebasyaty&theme=ayu_mirage"></a>
-  <a href="https://github.com/kebasyaty?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kebasyaty&theme=ayu_mirage"></a>
-  <a href="https://github.com/kebasyaty?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kebasyaty&theme=ayu_mirage"></a>
-  <a href="https://github.com/kebasyaty?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kebasyaty&theme=ayu_mirage&utcOffset=8"></a>
+  <a href="https://github.com/Ignor-GTO?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ignor-GTO&theme=ayu_mirage"></a>
+  <a href="https://github.com/Ignor-GTO?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ignor-GTO&theme=ayu_mirage"></a>
+  <a href="https://github.com/Ignor-GTO?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ignor-GTO&theme=ayu_mirage"></a>
+  <a href="https://github.com/Ignor-GTO?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ignor-GTO&theme=ayu_mirage&utcOffset=8"></a>
 </div>
 
 <!--
 <div align="center">
-  <a href="https://github.com/kebasyaty?tab=repositories">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kebasyaty&theme=high-contrast&height=250">
+  <a href="https://github.com/Ignor-GTO?tab=repositories">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ignor-GTO&theme=high-contrast&height=250">
   </a>
 </div>
 -->
@@ -97,7 +97,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/kebasyaty">
+    <a href="https://github.com/Ignor-GTO">
       <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200">
     </a>
   </p>
@@ -107,7 +107,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/kebasyaty">
+    <a href="https://github.com/Ignor-GTO">
       <img alt="Languages" src="https://img.shields.io/badge/Languages:-orange">
     </a>
   </p>
@@ -116,7 +116,7 @@
 <div align="center">
   <p align="center">
     <div>
-      <a href="https://github.com/kebasyaty?tab=repositories">
+      <a href="https://github.com/Ignor-GTO?tab=repositories">
         <img alt="My Skills" src="https://skillicons.dev/icons?i=python,css,html,js,rust,crystal">
       </a>
     </div>
@@ -134,7 +134,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/kebasyaty">
+    <a href="https://github.com/Ignor-GTO">
       <img alt="Development" src="https://img.shields.io/badge/Development:-orange">
     </a>
   </p>
@@ -143,7 +143,7 @@
 <div align="center">
   <p align="center">
     <div>
-      <a href="https://github.com/kebasyaty?tab=repositories">
+      <a href="https://github.com/Ignor-GTO?tab=repositories">
         <img alt="My Skills" src="https://skillicons.dev/icons?i=vscode,git,github">
       </a>
     </div>
@@ -154,7 +154,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/kebasyaty">
+    <a href="https://github.com/Ignor-GTO">
       <img alt="Frameworks" src="https://img.shields.io/badge/Frameworks:-orange">
     </a>
   </p>
@@ -163,7 +163,7 @@
 <div align="center">
   <p align="center">
     <div>
-      <a href="https://github.com/kebasyaty?tab=repositories">
+      <a href="https://github.com/Ignor-GTO?tab=repositories">
         <img alt="My Skills" src="https://skillicons.dev/icons?i=django,actix">
       </a>
     </div>
@@ -187,7 +187,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/kebasyaty">
+    <a href="https://github.com/Ignor-GTO">
       <img alt="Databases" src="https://img.shields.io/badge/Databases:-orange">
     </a>
   </p>
@@ -207,7 +207,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/kebasyaty">
+    <a href="https://github.com/Ignor-GTO">
       <img alt="Operating Systems" src="https://img.shields.io/badge/Operating%20Systems:-orange">
     </a>
   </p>
@@ -231,7 +231,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/kebasyaty">
+    <a href="https://github.com/Ignor-GTO">
       <img src="https://img.shields.io/badge/Socialmedia:-orange" />
     </a>
   </p>
@@ -240,15 +240,15 @@
 <div align="center">
   <p align="center">
     <div>
-      <a href="https://github.com/kebasyaty">
+      <a href="https://github.com/Ignor-GTO">
         <img alt="GitHub"
           src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </div>
     <div>
-      <a href="mailto:kebasyaty@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      <a href="mailto:Ignor-GTO@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/gennady-kostyunin-10188a1a2/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      <a href="https://twitter.com/kebasyaty/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+      <a href="https://twitter.com/Ignor-GTO/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
     </div>
     <div>
       <a href="https://pypi.org/project/django-editor-ymaps/"><img alt="PyPI" src="https://img.shields.io/badge/PyPI-blue?style=for-the-badge&logo=pypi&logoColor=white"></a>
@@ -261,14 +261,14 @@
 
 <p align="center">
   Visitors :<br>
-  <a href="https://github.com/kebasyaty">
-    <img alt="Profile Counter" src="https://profile-counter.glitch.me/kebasyaty-dev/count.svg">
+  <a href="https://github.com/Ignor-GTO">
+    <img alt="Profile Counter" src="https://profile-counter.glitch.me/Ignor-GTO-dev/count.svg">
   </a>
 </p>
 
 <!--
 <div align="center">
-  <a href="https://github.com/kebasyaty">
+  <a href="https://github.com/Ignor-GTO">
     <img alt="Footer" src="pictures/footer.svg" width="100%">
   </a>
 </div>
