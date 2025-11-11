@@ -27,18 +27,6 @@
   </a>
 </p>
 
-<div align="center">
-  <a href="https://github.com/Ignor-GTO">
-    <img alt="Quotes" src="pictures/quotes.svg">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Ignor-GTO">
-    <img alt="Quotes" src="pictures/girls.jpg">
-  </a>
-</div>
-
 ## Activity:
 
 <div align="center">
