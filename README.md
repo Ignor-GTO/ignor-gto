@@ -2,7 +2,7 @@
 
   <!-- Animated Greeting -->
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FFC107&center=true&vCenter=true&width=650&lines=Добро+пожаловать!+👋;Я+Геннадий+(Ignor-GTO);Разработчик+и+создатель+проектов"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FFC107&center=true&vCenter=true&width=650&lines=Добро+пожаловать!+👋;Я+Артур+(Ignor-GTO);Разработчик+и+создатель+проектов"
   />
 
   <br><br>
